@@ -11,7 +11,6 @@ You can visit the live application here: [https://yelp-camp-project-2022.herokua
 ## ScreenShots of the project
 <img src="/images/demo1.png"/>
 <img src="/images/demo2.png"/>
-<img src="/images/demo3.png"/>
 
 ## Features
 
